@@ -2,5 +2,5 @@
 - 👀 Eu tenho interesse em aprender tudo
 - 🌱 Atualmente estou aprendendo a desenvolver sites
 - 💞️ Infelizmente, ainda não faço parte de nenhuma colaboração
-- 📫 Me chame por email: jamillylima.service@gmail.com
 - 😄 Feliz em ter você aqui!
+- 📫 Me chame por email: jamillylima.service@gmail.com
