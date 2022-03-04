@@ -1,4 +1,4 @@
-- 👋 Olá, Meu nome é @JamillyLima
+- 👋 Olá, Meu nome é Jamilly Lima
 - 👀 Eu tenho interesse em aprender tudo
 - 🌱 Atualmente estou aprendendo a desenvolver sites
 - 💞️ Infelizmente, ainda não faço parte de nenhuma colaboração
