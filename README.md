@@ -1,6 +1,6 @@
-- 👋 Olá, Meu nome é Jamilly Lima
+- 👋 Olá, Meu nome é Jamilly Lima Santos
 - 👀 Eu tenho interesse em aprender tudo
-- 🌱 Atualmente estou aprendendo a desenvolver sites
-- 💞️ Infelizmente, ainda não faço parte de nenhuma colaboração
-- 😄 Feliz em ter você aqui!
+- 🖥️ Atualmente estou aprendendo a desenvolver sites
+- 🎵 Também tenho estudado teclado
+- 💔 Infelizmente, ainda não faço parte de nenhuma colaboração
 - 📫 Me chame por email: jamillylima.service@gmail.com
