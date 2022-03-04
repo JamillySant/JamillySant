@@ -3,4 +3,4 @@
 - 🖥️ Atualmente estou aprendendo a desenvolver sites
 - 🎵 Também tenho estudado teclado
 - 💔 Infelizmente, ainda não faço parte de nenhuma colaboração
-- 📫 Me chame por email: jamillylima.service@gmail.com
+- 📫 Me chame por email: jamillysantoslim@gmail.com
