@@ -8,3 +8,7 @@ Contatos, mas é importante pensar direitinho quais colocarem;
 Conhecimentos adquiridos;
 Região onde mora, mas não especifique tanto;
 Entre outros, coloque apenas o que você se sentir confortável para colocar.
+
+
+<i class="devicon-adonisjs-original colori"></i>
+          
