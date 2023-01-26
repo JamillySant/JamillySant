@@ -14,7 +14,7 @@ Hello, My name is Jamilly. How are you?
 ✍️ - Atualmente fazendo o 2° ano de Faculdade.<br>
 🌎 - Moro numa cidadezinha de Goiás Brasil.<br>
 📗 - Gosto de estudar, no momento JavaScript.<br>
-⚽ - Meus Hobbies são ler, ver a séries, jogar.<br>
+⚽ - Meus Hobbies são ler, assistir a séries e jogar.<br>
 🥭 - Minha fruta favorita com certeza é Manga.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
