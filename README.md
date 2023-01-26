@@ -6,7 +6,7 @@
 </div>
 <br>
 Hello, My name is Jamilly. How are you?
-<br>
+<br><br>
 ✍️ - Atualmente fazendo o 2° ano de Faculdade.<br>
 🌎 - Moro numa cidadezinha de Goiás Brasil.<br>
 📗 - Gosto de estudar, no momento JavaScript.<br>
