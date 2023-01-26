@@ -1,5 +1,1 @@
-- 👋 Olá, Meu nome é Jamilly
-- 👀 Interesse em aprender tudo
-- 🖥️ Atualmente desenvolvendo layouts 
-- 🎵 Estudante de Teclado
-- 📫 Chame por email: jamillysantoslim@gmail.com
+
