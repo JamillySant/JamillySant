@@ -1,7 +1,3 @@
-<body style="background: black">
-Hello, My name is Jamilly. How are you?
-
-<br>
 <div>
 <a href="https://www.instagram.com/sant.lim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "jamillysantoslim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,6 +5,9 @@ Hello, My name is Jamilly. How are you?
 <a href="https://www.youtube.com/channel/UCQ4je7Z7JpHKOQKczQK9_Zw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
+Hello, My name is Jamilly. How are you?
+
+<br>
 <br>
 
 ✍️ - Atualmente fazendo o 2° ano de Faculdade.<br>
