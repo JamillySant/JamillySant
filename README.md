@@ -11,7 +11,7 @@ Hello, My name is Jamilly. How are you?
 
 <br>
 
-Se você trabalha ou estuda. Se sim, é legal citar onde e em qual área;
+#9997 Atualmente fazendo faculdadeSe você trabalha ou estuda. Se sim, é legal citar onde e em qual área;
 O que você anda aprendendo;
 Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos. Caso esteja em transição de carreira, acredito que seja legal citar também;
 Contatos, mas é importante pensar direitinho quais colocarem;
