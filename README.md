@@ -9,5 +9,5 @@ Conhecimentos adquiridos;
 Região onde mora, mas não especifique tanto;
 Entre outros, coloque apenas o que você se sentir confortável para colocar.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
