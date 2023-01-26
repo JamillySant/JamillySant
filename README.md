@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/jamilly-lima-1020304050jl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCQ4je7Z7JpHKOQKczQK9_Zw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-<br><br>
+<br>
 Hello, My name is Jamilly. How are you?
-
+<br>
 ✍️ - Atualmente fazendo o 2° ano de Faculdade.<br>
 🌎 - Moro numa cidadezinha de Goiás Brasil.<br>
 📗 - Gosto de estudar, no momento JavaScript.<br>
