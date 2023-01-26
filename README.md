@@ -1,5 +1,5 @@
 
-Hello, My name is Jamilly; How are you?
+Hello, My name is Jamilly. How are you?
 
 <br>
 <div>
