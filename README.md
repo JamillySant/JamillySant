@@ -7,7 +7,7 @@
 <br>
 Hello, My name is Jamilly. How are you?
 <br><br>
-✍️ -Em desenvolvimento<br>
+✍️ - Em desenvolvimento<br>
 <br><br>
 
 <div>
@@ -16,5 +16,4 @@ Hello, My name is Jamilly. How are you?
   
   <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="180" height="180" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="180" height="180" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="180" height="180" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="180" height="180" />
-          
+
