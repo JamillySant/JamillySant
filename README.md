@@ -7,13 +7,7 @@
 <br>
 Hello, My name is Jamilly. How are you?
 <br><br>
-✍️ - Atualmente fazendo o 2° ano de Faculdade.<br>
-📗 - Gosto de estudar, no momento JavaScript.<br>
-🌎 - Moro numa cidadezinha de Goiás Brasil.<br>
-📝 - Estudar inglês, pois precisamos.<br>
-⚽ - Meus Hobbies são ler, assistir a séries e jogar.<br>
-🥭 - Minha fruta favorita com certeza é Manga.
-
+✍️ -Em desenvolvimento<br>
 <br><br>
 
 <div>
