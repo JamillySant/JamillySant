@@ -5,7 +5,7 @@
 <br>
 Hello, My name is Jamilly. How are you?
 <br><br>
-✍️ - Em desenvolvimento<br>
+✍️ - in development<br>
 <br><br>
 
 <div>
